@@ -1,1 +1,3 @@
-city: mumbai
+
+city: Mumbai
+city:Banglore
